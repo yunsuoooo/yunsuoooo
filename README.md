@@ -1,8 +1,8 @@
 ### Hi! 👋 <br>
-I'm Junior Web Developer. <br>
+I'm Web Developer. <br>
 
 ### Interest 🚀 <br>
 - React
-- TypeScript
-- Visual
-- Node.js
+- Recoil
+- TS
+- D3.js
