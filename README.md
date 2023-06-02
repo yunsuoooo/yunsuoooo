@@ -1,9 +1,11 @@
-### Hi! 👋 <br>
-I'm Web Developer. <br>
+### Hi! 👋
+<br>
+I'm Web Developer.
+<br>
 
-### Interest 🚀 <br>
+### My Interesting 🚀
+ <br>
 - React
 - Next.js
-- Recoil
-- TS
 - D3.js
+- WEB3
